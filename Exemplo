@@ -1,0 +1,25 @@
+#Aqui está um exemplo simples de um código em JSON que representa informações sobre um usuário fictício:
+
+{
+  "nome": "João Silva",
+  "idade": 30,
+  "email": "joao.silva@example.com",
+  "ativo": true,
+  "interesses": ["programação", "design", "música"],
+  "endereco": {
+    "rua": "Rua das Flores",
+    "numero": 123,
+    "cidade": "Cidade Exemplo",
+    "estado": "EX"
+  }
+}
+
+# Neste exemplo, temos um objeto JSON que contém informações sobre um usuário chamado João Silva. O objeto possui várias propriedades:
+
+#A propriedade "nome" armazena o nome do usuário.
+#A propriedade "idade" armazena a idade do usuário como um número.
+#A propriedade "email" armazena o endereço de e-mail do usuário.
+#A propriedade "ativo" armazena um valor booleano indicando se o usuário está ativo ou não.
+#A propriedade "interesses" é um array que contém os interesses do usuário.
+#A propriedade "endereco" é um objeto aninhado que contém informações sobre o endereço do usuário, incluindo rua, número, cidade e estado.
+#Essa estrutura hierárquica de pares de chave e valor é uma característica central do JSON, tornando-o uma maneira conveniente de representar dados estruturados de forma legível e organizada.
